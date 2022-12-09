@@ -8,7 +8,7 @@ public class IntroJava {
 		System.out.println("Trying to Learn Java Program.");
 		System.out.println("I am not sure what to write.");
 		System.out.println("There will no harm even I make mistake.");
-		System.out.println("Let me trying to writing  my Java code.");
+		System.out.println("Let me try to write  my Java code.");
 		System.out.println("I started --------------");
 	
 			
